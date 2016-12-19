@@ -19,3 +19,5 @@ virtualbox_windows-10_chef.box
 /windows/windows-2012R2-serverdatacenter-amd64/answer.iso
 /*.ISO
 /*.iso
+*~
+/logs
